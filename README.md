@@ -1,7 +1,4 @@
-### GitHub Readme Stats
-![simplestargame's GitHub stats](https://github-readme-stats.vercel.app/api?username=simplestargame&show_icons=true&theme=dark&count_private=true)
-### Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplestargame&layout=compact&theme=dark)](https://github.com/simplestargame/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplestargame)
 
 ### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/simplestar/posts.svg)](http://qiita.com/simplestar)
