@@ -1,4 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplestargame)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplestargame&show_icons=true)
 
 ### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/simplestar/posts.svg)](http://qiita.com/simplestar)
