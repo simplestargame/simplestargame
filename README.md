@@ -1,10 +1,5 @@
-## GitHub Stats
+# SimpleStarGame
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplestargame&show_icons=true)
+Unity / Game Developer
 
-### My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/simplestar/posts.svg)](http://qiita.com/simplestar)
-### My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/simplestar/contributions.svg)](http://qiita.com/simplestar)
-### My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/simplestar/followers.svg)](http://qiita.com/simplestar)
+個人で Unity を使ったゲームやツールを開発しています。
